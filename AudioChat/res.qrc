@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FMOD/examples/media/drumloop.wav</file>
+        <file>FMOD/examples/media/jaguar.wav</file>
+        <file>FMOD/examples/media/singing.wav</file>
+        <file>FMOD/examples/media/standrews.wav</file>
+        <file>FMOD/examples/media/stereo.ogg</file>
+        <file>FMOD/examples/media/swish.wav</file>
+        <file>FMOD/examples/media/wave_vorbis.fsb</file>
+        <file>FMOD/examples/media/wave.mp3</file>
+        <file>jaguar.wav</file>
+    </qresource>
+</RCC>
